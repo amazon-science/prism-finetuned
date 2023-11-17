@@ -1,0 +1,6 @@
+sacrerouge==0.2.5
+unbabel-comet==1.1.2
+nmtscore[prism]==0.1.0
+sacrebleu[ja]==2.2.0
+adapter-transformers==3.0.1
+scikit-learn==1.1.2
